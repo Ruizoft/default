@@ -1,0 +1,22 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "default app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruizoft/default.git"
+  },
+  "keywords": [
+    "default"
+  ],
+  "author": "Daniel Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruizoft/default/issues"
+  },
+  "homepage": "https://github.com/Ruizoft/default#readme"
+}
